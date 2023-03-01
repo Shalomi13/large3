@@ -1,0 +1,5 @@
+Step 1: Check if (a > b && a > c)
+		print a
+Step 2: Check if (b > a && b > c) 
+		print b
+Step 3: else print c
